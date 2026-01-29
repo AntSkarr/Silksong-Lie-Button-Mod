@@ -1,0 +1,9 @@
+{
+    "name": "LieButton",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/AntSkarr/Silksong-Lie-Button-Mod",
+    "description": "A simple mod for Silksong. Click a button (deafult is the keyboard L) to lie down.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Silksong-5.4.2304"
+    ]
+}

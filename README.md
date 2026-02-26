@@ -3,4 +3,4 @@ A simple and useless, but charming mod for Silksong. Click a button to toggle la
 
 Mostly without bugs. You'll have to try hard to break anything at all.
 
-It also creates a config in the BepInEx/config/ folder, in which you can change the deafult button. (Deafult = the keyboard button "L")
+It also creates a config in the BepInEx/config/ folder, in which you can change the default button. (Default = the keyboard button "L")
